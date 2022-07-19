@@ -6,9 +6,9 @@ Mobile Developer
 
 I am a talented mobile application developer, I am passionate about creating high-quality mobile applications.
 
-* 🌍  I'm based in Remote
+* 🌍   Remote
 * ✉️  You can contact me at [dvicxy@gmail.com](mailto:dvicxy@gmail.com)
-* 🚀  I'm currently working on [truQ](http://play.google.com/store/apps/details?id=com.mytruq.driver)
+* 🚀  I'm currently building logistic solutions with [truQ](http://play.google.com/store/apps/details?id=com.mytruq.driver)
 * 🤝  I'm open to collaborating on Opensource Flutter Projects
 
 ### Skills
